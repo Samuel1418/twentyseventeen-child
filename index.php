@@ -44,6 +44,7 @@ get_header(); ?>
 					the_title();
 					get_post_format();
 					the_shortlink();
+					the_author();
 				
 				
 					

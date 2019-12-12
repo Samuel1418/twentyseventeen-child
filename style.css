@@ -11,3 +11,7 @@ Theme URI:    http://example.com/twentyseventeen-child/
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyseventeenchild
  */
+a {
+    color: #70FF13;
+    text-decoration: none;
+}
